@@ -2,3 +2,4 @@
 Ejercicio Clase github
 
 PRIMERA EDICIÓN DE READ ME
+EllaTieneUnaFotoMia
